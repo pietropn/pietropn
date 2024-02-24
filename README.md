@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 - 🔭 I’m currently working at any store.
 - 🌱 I’m currently learning, somethings leanguages
