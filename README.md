@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-- 🔭 I’m currently working at any store.
+- 🔭 I’m currently working at <a src="https://www.latamairlines.com/">LATAM Airlines</a>.
 - 🌱 I’m currently learning, somethings leanguages
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with back-end.
