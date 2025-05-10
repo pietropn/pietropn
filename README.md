@@ -11,10 +11,11 @@
 
 🇧🇷 ca 🇮🇹 🇺🇸
 
+![alt text](image.png)
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,discordjs,nodejs,git,react&theme=dark" />
-  </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,java,discordjs,nodejs,git,react&theme=dark" />
+    </a>
 </p>
-
