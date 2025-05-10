@@ -13,9 +13,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,discordjs,nodejs,git,react)](https://skillicons.dev)
 </p>
