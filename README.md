@@ -18,3 +18,5 @@
         <img src="https://skillicons.dev/icons?i=html,css,js,java,discordjs,nodejs,git,react&theme=dark" />
     </a>
 </p>
+
+<!-- https://github.com/tandpfun/skill-icons -->
