@@ -13,7 +13,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-          
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,discordjs,nodejs,git,react)](https://skillicons.dev)
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,discordjs,nodejs,git,react&theme=dark" />
+  </a>
 </p>
 
