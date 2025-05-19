@@ -15,7 +15,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img title='HTML  CSS  JavaScript  JAVA  DiscordJs  NodeJs  git  ReactJs' src="https://skillicons.dev/icons?i=html,css,js,java,discordjs,nodejs,git,react&theme=dark" />
+        <img title='HTML | CSS | JavaScript | Java | Discordjs | NodeJs | git | Reactjs' src="https://skillicons.dev/icons?i=html,css,js,java,discordjs,nodejs,git,react&theme=dark" />
     </a>
 </p>
 
