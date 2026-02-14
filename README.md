@@ -15,11 +15,12 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img title='HTML | CSS | JavaScript | Java | Discordjs | Nodejs | git | Reactjs | Tailwind | Bootstrap | SpringBoot | TypeScript' src="https://skillicons.dev/icons?i=html,css,js,java,discordjs,nodejs,git,react,tailwind,bootstrap,spring,ts,flutter,,kubernetes,kotlin,mongodb,py,&theme=dark" />
+        <img title='HTML | CSS | JavaScript | Java | Discordjs | Nodejs | git | Reactjs | Tailwind | Bootstrap | SpringBoot | TypeScript | Flutter | Kubernetes | Kotlin | MongoDB | Python' src="https://skillicons.dev/icons?i=html,css,js,java,discordjs,nodejs,git,react,tailwind,bootstrap,spring,ts,flutter,kubernetes,kotlin,mongodb,py,&theme=dark" />
     </a>
 </p>
 
 <!-- https://github.com/tandpfun/skill-icons -->
+
 
 
 
